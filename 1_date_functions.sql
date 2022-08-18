@@ -40,7 +40,7 @@ SELECT DATENAME(day, '2022-01-01') AS date_part_str;
 ---below functions extract corresponding parts from the date
 ---DAY() - day of month
 ---MONTH() - month of year
----YEAR()
+---YEAR() - year from the date
 
 ---GETDATE()
 ---return current database systems date and time
