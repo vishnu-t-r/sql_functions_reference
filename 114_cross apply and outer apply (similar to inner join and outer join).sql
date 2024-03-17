@@ -111,7 +111,7 @@ OUTER APPLY fnGetBooksByAuthorId(A.Id) B
 
 /*retrieve all the rows from both the physical table and the output of the table valued function*/
 
-
+--saw how to perform join operations between a physical table and table valued function.
 
 
 
